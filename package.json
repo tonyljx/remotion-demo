@@ -11,7 +11,10 @@
   "repository": {},
   "license": "UNLICENSED",
   "dependencies": {
+    "@remotion/animation-utils": "^4.0.126",
     "@remotion/cli": "4.0.126",
+    "@remotion/layout-utils": "^4.0.126",
+    "@remotion/transitions": "^4.0.126",
     "@remotion/zod-types": "4.0.126",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
