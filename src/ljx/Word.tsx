@@ -43,10 +43,10 @@ export const Word: React.FC<{
 			<div
 				style={{
 					fontSize,
-					color: 'black',
-					// WebkitTextStroke: stroke ? '20px black' : undefined,
-					// fontFamily,
-					// textTransform: 'uppercase',
+					color: 'white',
+					WebkitTextStroke: stroke ? '20px black' : undefined,
+					fontFamily,
+					textTransform: 'uppercase',
 					transform: makeTransform([
 						scale(interpolate(enterProgress, [0, 1], [0.8, 1])),
 						translateY(interpolate(enterProgress, [0, 1], [50, 0])),

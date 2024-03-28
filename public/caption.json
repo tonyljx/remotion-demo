@@ -1,67 +1,279 @@
 {
-	"language": "english",
-	"duration": 58.439998626708984,
-	"text": "Introducing Vervanova, the epitome of comfort and style in the world of intimate wear. Our bra collection is designed with a deep understanding of what women truly seek in their undergarments, a seamless blend of lightweight design and unparalleled comfort. Vervanova bras are crafted from the finest materials, ensuring that they are not just bras, but a second skin that moves with you. The unique, innovative fabric used in our bras guarantees breathability and flexibility, making it almost unnoticeable under any outfit. Whether you're at work, enjoying a casual day out, or attending a special event, Vervanova bras provide the perfect support without compromising on comfort. Experience the freedom of Vervanova's lightweight, comfortable bras today, and elevate your everyday wear with a touch of elegance and ease. Say goodbye to the days of adjusting and discomfort, and hello to the future of intimate wear with Vervanova.",
-	"segments": [
-		{
-			"start": 0,
-			"end": 4.960000038146973,
-			"text": " Introducing Vervanova, the epitome of comfort and style in the world of intimate wear."
-		},
-		{
-			"start": 5.519999980926514,
-			"end": 9.84000015258789,
-			"text": " Our bra collection is designed with a deep understanding of what women truly seek in"
-		},
-		{
-			"start": 9.84000015258789,
-			"end": 15.4399995803833,
-			"text": " their undergarments, a seamless blend of lightweight design and unparalleled comfort."
-		},
-		{
-			"start": 15.4399995803833,
-			"end": 20.719999313354492,
-			"text": " Vervanova bras are crafted from the finest materials, ensuring that they are not just"
-		},
-		{
-			"start": 20.719999313354492,
-			"end": 27.360000610351562,
-			"text": " bras, but a second skin that moves with you. The unique, innovative fabric used in our bras"
-		},
-		{
-			"start": 27.360000610351562,
-			"end": 32.560001373291016,
-			"text": " guarantees breathability and flexibility, making it almost unnoticeable under any outfit."
-		},
-		{
-			"start": 33.279998779296875,
-			"end": 37.7599983215332,
-			"text": " Whether you're at work, enjoying a casual day out, or attending a special event,"
-		},
-		{
-			"start": 37.7599983215332,
-			"end": 41.91999816894531,
-			"text": " Vervanova bras provide the perfect support without compromising on comfort."
-		},
-		{
-			"start": 42.880001068115234,
-			"end": 47.279998779296875,
-			"text": " Experience the freedom of Vervanova's lightweight, comfortable bras today,"
-		},
-		{
-			"start": 47.279998779296875,
-			"end": 51.20000076293945,
-			"text": " and elevate your everyday wear with a touch of elegance and ease."
-		},
-		{
-			"start": 52.08000183105469,
-			"end": 56.560001373291016,
-			"text": " Say goodbye to the days of adjusting and discomfort, and hello to the future of intimate"
-		},
-		{
-			"start": 56.560001373291016,
-			"end": 58.560001373291016,
-			"text": " wear with Vervanova."
-		}
-	]
+  "language": "english",
+  "duration": 58.2400016784668,
+  "text": "Introducing Vervanova, the epitome of comfort and style in the world of intimate wear. Our bra collection is designed with a deep understanding of what women truly seek in their undergarments. A seamless blend of lightweight design and unparalleled comfort. Vervanova bras are crafted from the finest materials ensuring that they are not just bras but a second skin that moves with you. The unique innovative fabric used in our bras guarantees breathability and flexibility making it almost unnoticeable under any outfit. Whether you're at work, enjoying a casual day out, or attending a special event, Vervanova bras provide the perfect support without compromising on comfort. Experience the freedom of Vervanova's lightweight comfortable bras today and elevate your everyday wear with a touch of elegance and with Vervanova.",
+  "segments": [
+    { "start": 0, "end": 0.6800000071525574, "text": "Introducing" },
+    {
+      "start": 0.6800000071525574,
+      "end": 1.2400000095367432,
+      "text": "Vervanova"
+    },
+    { "start": 1.659999966621399, "end": 2.0999999046325684, "text": "the" },
+    {
+      "start": 2.0999999046325684,
+      "end": 2.359999895095825,
+      "text": "epitome"
+    },
+    { "start": 2.359999895095825, "end": 2.740000009536743, "text": "of" },
+    { "start": 2.740000009536743, "end": 3.059999942779541, "text": "comfort" },
+    { "start": 3.059999942779541, "end": 3.4200000762939453, "text": "and" },
+    { "start": 3.4200000762939453, "end": 3.6600000858306885, "text": "style" },
+    { "start": 3.6600000858306885, "end": 4.019999980926514, "text": "in" },
+    { "start": 4.019999980926514, "end": 4.21999979019165, "text": "the" },
+    { "start": 4.21999979019165, "end": 4.420000076293945, "text": "world" },
+    { "start": 4.420000076293945, "end": 4.960000038146973, "text": "of" },
+    {
+      "start": 4.960000038146973,
+      "end": 4.960000038146973,
+      "text": "intimate"
+    },
+    { "start": 4.960000038146973, "end": 5.260000228881836, "text": "wear" },
+    { "start": 6.139999866485596, "end": 6.21999979019165, "text": "Our" },
+    { "start": 6.21999979019165, "end": 6.460000038146973, "text": "bra" },
+    {
+      "start": 6.460000038146973,
+      "end": 6.820000171661377,
+      "text": "collection"
+    },
+    { "start": 6.820000171661377, "end": 7.159999847412109, "text": "is" },
+    {
+      "start": 7.159999847412109,
+      "end": 7.440000057220459,
+      "text": "designed"
+    },
+    { "start": 7.440000057220459, "end": 7.659999847412109, "text": "with" },
+    { "start": 7.659999847412109, "end": 7.880000114440918, "text": "a" },
+    { "start": 7.880000114440918, "end": 8.119999885559082, "text": "deep" },
+    {
+      "start": 8.119999885559082,
+      "end": 8.65999984741211,
+      "text": "understanding"
+    },
+    { "start": 8.65999984741211, "end": 8.9399995803833, "text": "of" },
+    { "start": 8.9399995803833, "end": 9.140000343322754, "text": "what" },
+    { "start": 9.140000343322754, "end": 9.300000190734863, "text": "women" },
+    { "start": 9.300000190734863, "end": 9.819999694824219, "text": "truly" },
+    { "start": 9.819999694824219, "end": 10.0600004196167, "text": "seek" },
+    { "start": 10.0600004196167, "end": 10.239999771118164, "text": "in" },
+    { "start": 10.239999771118164, "end": 10.420000076293945, "text": "their" },
+    {
+      "start": 10.420000076293945,
+      "end": 10.9399995803833,
+      "text": "undergarments"
+    },
+    { "start": 11.5600004196167, "end": 11.739999771118164, "text": "A" },
+    {
+      "start": 11.739999771118164,
+      "end": 12.140000343322754,
+      "text": "seamless"
+    },
+    { "start": 12.140000343322754, "end": 12.460000038146973, "text": "blend" },
+    { "start": 12.460000038146973, "end": 12.859999656677246, "text": "of" },
+    {
+      "start": 12.859999656677246,
+      "end": 13.0600004196167,
+      "text": "lightweight"
+    },
+    { "start": 13.0600004196167, "end": 13.579999923706055, "text": "design" },
+    { "start": 13.579999923706055, "end": 14.300000190734863, "text": "and" },
+    {
+      "start": 14.300000190734863,
+      "end": 14.960000038146973,
+      "text": "unparalleled"
+    },
+    { "start": 14.960000038146973, "end": 15.5600004196167, "text": "comfort" },
+    {
+      "start": 16.34000015258789,
+      "end": 16.719999313354492,
+      "text": "Vervanova"
+    },
+    { "start": 16.719999313354492, "end": 17.059999465942383, "text": "bras" },
+    { "start": 17.059999465942383, "end": 17.459999084472656, "text": "are" },
+    {
+      "start": 17.459999084472656,
+      "end": 17.700000762939453,
+      "text": "crafted"
+    },
+    { "start": 17.700000762939453, "end": 18, "text": "from" },
+    { "start": 18, "end": 18.559999465942383, "text": "the" },
+    {
+      "start": 18.559999465942383,
+      "end": 18.559999465942383,
+      "text": "finest"
+    },
+    {
+      "start": 18.559999465942383,
+      "end": 19.18000030517578,
+      "text": "materials"
+    },
+    {
+      "start": 19.18000030517578,
+      "end": 19.84000015258789,
+      "text": "ensuring"
+    },
+    { "start": 19.84000015258789, "end": 20.100000381469727, "text": "that" },
+    { "start": 20.100000381469727, "end": 20.219999313354492, "text": "they" },
+    { "start": 20.219999313354492, "end": 20.31999969482422, "text": "are" },
+    { "start": 20.31999969482422, "end": 20.579999923706055, "text": "not" },
+    { "start": 20.579999923706055, "end": 21.239999771118164, "text": "just" },
+    { "start": 21.239999771118164, "end": 21.239999771118164, "text": "bras" },
+    { "start": 21.239999771118164, "end": 21.81999969482422, "text": "but" },
+    { "start": 21.81999969482422, "end": 22.020000457763672, "text": "a" },
+    { "start": 22.020000457763672, "end": 22.34000015258789, "text": "second" },
+    { "start": 22.34000015258789, "end": 22.68000030517578, "text": "skin" },
+    { "start": 22.68000030517578, "end": 23.31999969482422, "text": "that" },
+    { "start": 23.31999969482422, "end": 23.31999969482422, "text": "moves" },
+    { "start": 23.31999969482422, "end": 23.600000381469727, "text": "with" },
+    { "start": 23.600000381469727, "end": 23.799999237060547, "text": "you" },
+    { "start": 24.15999984741211, "end": 24.6200008392334, "text": "The" },
+    { "start": 24.6200008392334, "end": 25.079999923706055, "text": "unique" },
+    {
+      "start": 25.079999923706055,
+      "end": 25.6200008392334,
+      "text": "innovative"
+    },
+    { "start": 25.6200008392334, "end": 25.959999084472656, "text": "fabric" },
+    { "start": 25.959999084472656, "end": 26.280000686645508, "text": "used" },
+    { "start": 26.280000686645508, "end": 26.420000076293945, "text": "in" },
+    { "start": 26.420000076293945, "end": 26.959999084472656, "text": "our" },
+    { "start": 26.959999084472656, "end": 26.959999084472656, "text": "bras" },
+    {
+      "start": 26.959999084472656,
+      "end": 27.639999389648438,
+      "text": "guarantees"
+    },
+    {
+      "start": 27.639999389648438,
+      "end": 28.399999618530273,
+      "text": "breathability"
+    },
+    { "start": 28.399999618530273, "end": 28.68000030517578, "text": "and" },
+    {
+      "start": 28.68000030517578,
+      "end": 29.219999313354492,
+      "text": "flexibility"
+    },
+    {
+      "start": 29.219999313354492,
+      "end": 30.139999389648438,
+      "text": "making"
+    },
+    { "start": 30.139999389648438, "end": 30.31999969482422, "text": "it" },
+    { "start": 30.31999969482422, "end": 30.739999771118164, "text": "almost" },
+    {
+      "start": 30.739999771118164,
+      "end": 31.479999542236328,
+      "text": "unnoticeable"
+    },
+    { "start": 31.479999542236328, "end": 31.799999237060547, "text": "under" },
+    { "start": 31.799999237060547, "end": 32.2400016784668, "text": "any" },
+    { "start": 32.2400016784668, "end": 32.58000183105469, "text": "outfit" },
+    { "start": 33.13999938964844, "end": 33.20000076293945, "text": "Whether" },
+    { "start": 33.20000076293945, "end": 33.400001525878906, "text": "you're" },
+    { "start": 33.400001525878906, "end": 33.880001068115234, "text": "at" },
+    { "start": 33.880001068115234, "end": 33.880001068115234, "text": "work" },
+    { "start": 34.34000015258789, "end": 34.5, "text": "enjoying" },
+    { "start": 34.5, "end": 35.02000045776367, "text": "a" },
+    { "start": 35.02000045776367, "end": 35.02000045776367, "text": "casual" },
+    { "start": 35.02000045776367, "end": 35.36000061035156, "text": "day" },
+    { "start": 35.36000061035156, "end": 35.63999938964844, "text": "out" },
+    { "start": 35.63999938964844, "end": 36.2400016784668, "text": "or" },
+    {
+      "start": 36.2400016784668,
+      "end": 36.41999816894531,
+      "text": "attending"
+    },
+    { "start": 36.41999816894531, "end": 36.7599983215332, "text": "a" },
+    { "start": 36.7599983215332, "end": 36.97999954223633, "text": "special" },
+    { "start": 36.97999954223633, "end": 37.439998626708984, "text": "event" },
+    {
+      "start": 38.02000045776367,
+      "end": 38.29999923706055,
+      "text": "Vervanova"
+    },
+    { "start": 38.29999923706055, "end": 38.70000076293945, "text": "bras" },
+    {
+      "start": 38.70000076293945,
+      "end": 39.040000915527344,
+      "text": "provide"
+    },
+    { "start": 39.040000915527344, "end": 39.31999969482422, "text": "the" },
+    {
+      "start": 39.31999969482422,
+      "end": 39.619998931884766,
+      "text": "perfect"
+    },
+    {
+      "start": 39.619998931884766,
+      "end": 40.119998931884766,
+      "text": "support"
+    },
+    {
+      "start": 40.119998931884766,
+      "end": 40.79999923706055,
+      "text": "without"
+    },
+    {
+      "start": 40.79999923706055,
+      "end": 41.380001068115234,
+      "text": "compromising"
+    },
+    { "start": 41.380001068115234, "end": 42.2599983215332, "text": "on" },
+    { "start": 42.2599983215332, "end": 42.41999816894531, "text": "comfort" },
+    {
+      "start": 43.2400016784668,
+      "end": 43.2400016784668,
+      "text": "Experience"
+    },
+    { "start": 43.2400016784668, "end": 43.58000183105469, "text": "the" },
+    {
+      "start": 43.58000183105469,
+      "end": 43.720001220703125,
+      "text": "freedom"
+    },
+    { "start": 43.720001220703125, "end": 44.040000915527344, "text": "of" },
+    {
+      "start": 44.040000915527344,
+      "end": 44.63999938964844,
+      "text": "Vervanova's"
+    },
+    {
+      "start": 44.63999938964844,
+      "end": 45.099998474121094,
+      "text": "lightweight"
+    },
+    {
+      "start": 45.099998474121094,
+      "end": 45.70000076293945,
+      "text": "comfortable"
+    },
+    { "start": 45.70000076293945, "end": 45.97999954223633, "text": "bras" },
+    { "start": 45.97999954223633, "end": 46.52000045776367, "text": "today" },
+    { "start": 46.52000045776367, "end": 47.400001525878906, "text": "and" },
+    {
+      "start": 47.400001525878906,
+      "end": 47.619998931884766,
+      "text": "elevate"
+    },
+    { "start": 47.619998931884766, "end": 48, "text": "your" },
+    { "start": 48, "end": 48.29999923706055, "text": "everyday" },
+    { "start": 48.29999923706055, "end": 48.619998931884766, "text": "wear" },
+    { "start": 48.619998931884766, "end": 49.099998474121094, "text": "with" },
+    { "start": 49.099998474121094, "end": 49.5, "text": "a" },
+    { "start": 49.5, "end": 49.5, "text": "touch" },
+    { "start": 49.5, "end": 50.13999938964844, "text": "of" },
+    {
+      "start": 50.13999938964844,
+      "end": 50.15999984741211,
+      "text": "elegance"
+    },
+    { "start": 50.15999984741211, "end": 56.939998626708984, "text": "and" },
+    { "start": 56.939998626708984, "end": 57.540000915527344, "text": "with" },
+    {
+      "start": 57.540000915527344,
+      "end": 58.099998474121094,
+      "text": "Vervanova"
+    }
+  ]
 }

@@ -23,6 +23,10 @@ function SubtitleTemplateV1() {
 
 	return (
 		<AbsoluteFill style={{backgroundColor: 'white'}}>
+			{/* video */}
+			<BasicTransition />
+
+			{/* subtitle audio */}
 			<AbsoluteFill>
 				{/* <OffthreadVideo
 					style={{
@@ -34,20 +38,21 @@ function SubtitleTemplateV1() {
 				{/* <Video src={staticFile('caption.mp3')} /> */}
 				<Audio src="https://logomakers.s3.ap-southeast-1.amazonaws.com/caption.mp3" />
 			</AbsoluteFill>
-			<BasicTransition />
+
+			{/* subtitle */}
 			{subtitles &&
 				subtitles.segments.map((subtitle, index) => {
 					const subtitleStartFrame = subtitle.start * fps;
 					const subtitleEndFrame = subtitle.end * fps;
-					// console.log(
-					// 	`idx: ${index} start ${subtitle.start} end ${subtitle.end} ${subtitleStartFrame} ${subtitleEndFrame} `
-					// );
+					console.log(
+						`idx: ${index} start ${subtitle.start} end ${subtitle.end} ${subtitleStartFrame} ${subtitleEndFrame} `
+					);
 
 					return (
 						<Sequence
 							key={index}
 							from={subtitleStartFrame}
-							durationInFrames={subtitleEndFrame - subtitleStartFrame}
+							durationInFrames={subtitleEndFrame - subtitleStartFrame + 1}
 						>
 							<Subtitle key={index} text={subtitle.text} />;
 						</Sequence>
