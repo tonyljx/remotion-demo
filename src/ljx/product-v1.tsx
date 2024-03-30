@@ -20,10 +20,10 @@ function SubtitleTemplateV1() {
 
 	return (
 		<AbsoluteFill style={{backgroundColor: 'white'}}>
-			{/* img */}
+			{/* video */}
 			<BasicTransition />
 
-			{/* audio */}
+			{/* subtitle audio */}
 			<AbsoluteFill>
 				<Audio src="https://logomakers.s3.ap-southeast-1.amazonaws.com/caption.mp3" />
 			</AbsoluteFill>
@@ -33,12 +33,15 @@ function SubtitleTemplateV1() {
 				subtitles.segments.map((subtitle, index) => {
 					const subtitleStartFrame = subtitle.start * fps;
 					const subtitleEndFrame = subtitle.end * fps;
+					console.log(
+						`idx: ${index} start ${subtitle.start} end ${subtitle.end} ${subtitleStartFrame} ${subtitleEndFrame} `
+					);
 
 					return (
 						<Sequence
 							key={index}
 							from={subtitleStartFrame}
-							durationInFrames={subtitleEndFrame - subtitleStartFrame + 1}
+							durationInFrames={subtitleEndFrame - subtitleStartFrame + 1 + 1}
 						>
 							<Subtitle key={index} text={subtitle.text} />;
 							{/* <Title
