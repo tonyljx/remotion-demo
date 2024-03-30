@@ -10,9 +10,9 @@ const Subtitle: React.FC<{text: string}> = ({text}) => {
 		frame,
 		fps,
 		config: {
-			damping: 200,
+			damping: 180,
 		},
-		durationInFrames: 5,
+		durationInFrames: 10,
 	});
 
 	// Overlay stroked text with normal text to create an effect where the stroke is outside
@@ -21,9 +21,9 @@ const Subtitle: React.FC<{text: string}> = ({text}) => {
 			<AbsoluteFill>
 				<Word stroke enterProgress={enter} text={text} />
 			</AbsoluteFill>
-			{/* <AbsoluteFill>
+			<AbsoluteFill>
 				<Word enterProgress={enter} text={text} stroke={false} />
-			</AbsoluteFill> */}
+			</AbsoluteFill>
 		</AbsoluteFill>
 	);
 };
