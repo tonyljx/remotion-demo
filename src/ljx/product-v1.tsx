@@ -20,7 +20,7 @@ function SubtitleTemplateV1() {
 
 	return (
 		<AbsoluteFill style={{backgroundColor: 'white'}}>
-			{/* video */}
+			{/* image */}
 			<BasicTransition />
 
 			{/* subtitle audio */}
